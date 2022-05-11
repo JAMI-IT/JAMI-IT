@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jami-it" alt="jami-it" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdul rehman jami" target="blank"><img src="https://img.shields.io/twitter/follow/abdul rehman jami?logo=twitter&style=for-the-badge" alt="abdul rehman jami" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ARJami7861" target="blank"><img src="https://img.shields.io/twitter/follow/abdul rehman jami?logo=twitter&style=for-the-badge" alt="abdul rehman jami" /></a> </p>
 
 - 🔭 I’m currently working on **Javascript**
 
