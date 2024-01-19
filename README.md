@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ARJami7861" target="blank"><img src="https://img.shields.io/twitter/follow/abdul rehman jami?logo=twitter&style=for-the-badge" alt="abdul rehman jami" /></a> </p>
 
-🔭 I’m currently working extensively with JavaScript, specializing in **React Native development**.
+🔭 I’m currently working extensively with JavaScript, specializing in **React Native development**
 
 
-🌱 I’m continuously honing my skills in TypeScript and deepening my knowledge of **React Native**.
+🌱 I’m continuously honing my skills in TypeScript and deepening my knowledge of **React Native**
 
 
-👯 I’m currently collaborating with the most experienced React Native team, contributing to **Front-end projects**.
+👯 I’m currently collaborating with the most experienced React Native team, contributing to **Front-end projects** 
 
 
 💬 Feel free to ask me anything about JavaScript or Android development in **React Native**.
